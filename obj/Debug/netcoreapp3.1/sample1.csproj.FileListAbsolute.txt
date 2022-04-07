@@ -1,0 +1,14 @@
+D:\Capgemini .net core\.net framework core coding\practice\sample1\bin\Debug\netcoreapp3.1\sample1.exe
+D:\Capgemini .net core\.net framework core coding\practice\sample1\bin\Debug\netcoreapp3.1\sample1.deps.json
+D:\Capgemini .net core\.net framework core coding\practice\sample1\bin\Debug\netcoreapp3.1\sample1.runtimeconfig.json
+D:\Capgemini .net core\.net framework core coding\practice\sample1\bin\Debug\netcoreapp3.1\sample1.runtimeconfig.dev.json
+D:\Capgemini .net core\.net framework core coding\practice\sample1\bin\Debug\netcoreapp3.1\sample1.dll
+D:\Capgemini .net core\.net framework core coding\practice\sample1\bin\Debug\netcoreapp3.1\sample1.pdb
+D:\Capgemini .net core\.net framework core coding\practice\sample1\obj\Debug\netcoreapp3.1\sample1.csproj.AssemblyReference.cache
+D:\Capgemini .net core\.net framework core coding\practice\sample1\obj\Debug\netcoreapp3.1\sample1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini .net core\.net framework core coding\practice\sample1\obj\Debug\netcoreapp3.1\sample1.AssemblyInfoInputs.cache
+D:\Capgemini .net core\.net framework core coding\practice\sample1\obj\Debug\netcoreapp3.1\sample1.AssemblyInfo.cs
+D:\Capgemini .net core\.net framework core coding\practice\sample1\obj\Debug\netcoreapp3.1\sample1.csproj.CoreCompileInputs.cache
+D:\Capgemini .net core\.net framework core coding\practice\sample1\obj\Debug\netcoreapp3.1\sample1.dll
+D:\Capgemini .net core\.net framework core coding\practice\sample1\obj\Debug\netcoreapp3.1\sample1.pdb
+D:\Capgemini .net core\.net framework core coding\practice\sample1\obj\Debug\netcoreapp3.1\sample1.genruntimeconfig.cache
